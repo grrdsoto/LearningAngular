@@ -1,0 +1,24 @@
+{
+  "name": "learningangular",
+  "version": "1.0.0",
+  "description": "learning angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grrdsoto/LearningAngular.git"
+  },
+  "author": "gerardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grrdsoto/LearningAngular/issues"
+  },
+  "homepage": "https://github.com/grrdsoto/LearningAngular#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}

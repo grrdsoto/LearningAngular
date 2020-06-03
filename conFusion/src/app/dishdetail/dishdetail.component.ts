@@ -6,6 +6,7 @@ import { Dish } from '../shared/dish';
   styleUrls: ['./dishdetail.component.scss']
 })
 export class DishdetailComponent implements OnInit {
+  @Input()
   dish: Dish;
 
   constructor() { }
